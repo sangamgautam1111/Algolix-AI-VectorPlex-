@@ -1,10 +1,5 @@
 """
-VectorPlex V2 - Flask Application
-=================================
-Main Flask server that integrates with pipeline.py
-By Sangam Gautam & Sushil Yadav
-
-Uses importlib.util for clean external module loading
+this is for application setup 
 """
 
 import os
